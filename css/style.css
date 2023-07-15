@@ -200,8 +200,8 @@ h6 {
   text-decoration: underline;
 }
 
-#intro .intro-info .btn-get-started,
-#intro .intro-info .btn-services {
+#intro .intro-info .btn-Conocenos,
+#intro .intro-info .btn-servicios {
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
   font-weight: 600;
@@ -214,25 +214,25 @@ h6 {
   color: #fff;
 }
 
-#intro .intro-info .btn-get-started {
-  background: #007bff;
-  border: 2px solid #007bff;
+#intro .intro-info .btn-Conocenos {
+  background: #76a8dd;
+  border: 2px solid #30088d;
   color: #fff;
 }
 
-#intro .intro-info .btn-get-started:hover {
-  background: none;
+#intro .intro-info .btn-Conocenos:hover {
+  background:rgb(245, 158, 245) ;
   border-color: #fff;
   color: #fff;
 }
 
-#intro .intro-info .btn-services {
-  border: 2px solid #fff;
+#intro .intro-info .btn-servicios {
+  border: 2px solid #3f0308;
 }
 
-#intro .intro-info .btn-services:hover {
-  background: #007bff;
-  border-color: #007bff;
+#intro .intro-info .btn-servicios:hover {
+  background:#007bff;
+  border-color: #e2e4e6;
   color: #fff;
 }
 
